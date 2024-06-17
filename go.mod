@@ -11,7 +11,7 @@ require (
 	github.com/google/uuid v1.3.0
 	github.com/itchyny/gojq v0.12.7
 	github.com/jackc/pgconn v1.14.3
-	github.com/jackc/pgx/v5 v5.6.0
+	github.com/jackc/pgx/v4 v4.18.3
 	github.com/json-iterator/go v1.1.12
 	github.com/lib/pq v1.10.5
 	github.com/microcosm-cc/bluemonday v1.0.18
